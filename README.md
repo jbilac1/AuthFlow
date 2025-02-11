@@ -14,7 +14,7 @@ to implement user authentication in a multi-page application.
     
    ✅ Session management with Express & cookies
     
-   ✅ Multi-page UI with React Router(Home, Dashboard, Profile, Login, Logout)
+   ✅ Multi-page UI with React Router(Home, Profile, Login, Logout)
     
    ✅ Secure route protection for authenticated users
     
