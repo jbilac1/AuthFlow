@@ -29,7 +29,7 @@ const Home = () => {
             <li>✅ User registration & login with Passport.js</li>
             <li>✅ Session management with Express & cookies</li>
             <li>
-              ✅ Multi-page UI with React Router(Home, Dashboard, Profile,
+              ✅ Multi-page UI with React Router(Home, Profile,
               Login, Logout)
             </li>
             <li>✅ Secure route protection for authenticated users</li>
